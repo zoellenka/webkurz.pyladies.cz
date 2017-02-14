@@ -107,7 +107,7 @@ Více různých cest lze vytvořit jednoduše přidáním další funkce:
 @app.route('/kontakt')
 def contact():
     return '''
-      PyLadies přijdou, když si v nouzi,
+      PyLadies přijdou, když jsi v nouzi,
       když tě Python ze sna vzbouzí,
       zavolat jen stačí heslo: PyLady, úú!
     '''
